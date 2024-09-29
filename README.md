@@ -7,13 +7,13 @@
 - 🤝 Open to Collaborative Work, Fullstack and Frontend Roles
 - 📄 You can learn more about me here: [Resume](https://harlequin-ninnette-61.tiiny.site)
 
-## 🛠️ I am currently looking for new Opportunities.
+ **🛠️ I am currently looking for new Opportunities.**
 
 
 ## Skills
 
 #### Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
