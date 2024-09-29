@@ -2,7 +2,27 @@
 
 **I am a Full Stack Developer with 6 years experience.**
 
-As a seasoned full-stack developer with a strong focus on Node.js, React, and AWS, I am currently leading the frontend team at TruWeather Solutions. My expertise lies in building scalable and efficient applications, leveraging my in-depth knowledge of both backend and frontend technologies. With six years of experience in the industry, I excel at creating seamless user experiences while ensuring robust backend functionality, making me a versatile and valuable asset to any development team.
+- 📍 Currently based in **Albany, NY**
+- 💬 Ask me about React, TypeScript, GoLang and Rust
+- 🤝 Open to Collaborative Work, Fullstack and Frontend Roles
+- 📄 You can learn more about me here: [Resume](https://harlequin-ninnette-61.tiiny.site)
+
+## 🛠️ I am currently looking for new Opportunities.
+
+
+## Skills
+
+#### Languages:
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+
+
 
 
 <!--
