@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there, I'm [Dhiraj Shrotri](https://portfolio.thisdotdev.com/) 👋
+
+## I am a Full Stack Developer with 6 years experience.
+
+As a seasoned full-stack developer with a strong focus on Node.js, React, and AWS, I am currently leading the frontend team at TruWeather Solutions. My expertise lies in building scalable and efficient applications, leveraging my in-depth knowledge of both backend and frontend technologies. With six years of experience in the industry, I excel at creating seamless user experiences while ensuring robust backend functionality, making me a versatile and valuable asset to any development team.
+
 
 <!--
 **dhirajshrotri/dhirajshrotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
