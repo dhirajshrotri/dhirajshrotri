@@ -1,6 +1,6 @@
 # Hi there, I'm [Dhiraj Shrotri](https://portfolio.thisdotdev.com/) 👋
 
-**I am a Full Stack Developer with 6 years experience.**
+### I am a Full Stack Developer with 6 years experience.
 
 - 📍 Currently based in **Albany, NY**
 - 💬 Ask me about React, TypeScript, GoLang and Rust
